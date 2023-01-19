@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=jaedeloper&color=6666FF&style=flat&label=Profile+views)<br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaedeloper&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0000006C)](https://git.io/streak-stats)
 <!--
 **JaeDeloper/JaeDeloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
