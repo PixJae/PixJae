@@ -6,6 +6,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaedeloper&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+```javascript
+  
+```
+
 **JaeDeloper/JaeDeloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
