@@ -3,9 +3,11 @@
 
 <!--
 <img style="width:200px;height:200px" src="https://github.com/JaeDeloper/JaeDeloper/blob/main/images/pfp.png">
+-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaedeloper&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+<!--
 ```javascript
   
 ```
